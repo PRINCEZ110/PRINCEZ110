@@ -1,3 +1,12 @@
+Hey there!
+
+I'm Prince, a junior frontend developer based in Nepal.
+
+I design and build anything I can imagine — if an idea comes to mind, I turn it into reality and ship it.
+
+My main tech stack includes React, Java, and Tailwind. I enjoy creating clean, responsive, and user-friendly interfaces.
+
+I’ve worked on several projects, with a number of public repositories showcasing my work.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/princez-shrestha-b12a0132b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princezstha6110@gmail.com) 
