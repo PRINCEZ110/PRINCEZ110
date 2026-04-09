@@ -1,6 +1,6 @@
-Hey there!
+Hey there!🙋🏻‍♂️
 
-I'm Prince, a junior frontend developer based in Nepal.
+I'm <span style="color:blue">Prince_</span>, a junior frontend developer based in Nepal.
 
 I design and build anything I can imagine — if an idea comes to mind, I turn it into reality and ship it.
 
