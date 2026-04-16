@@ -1,5 +1,5 @@
 # <span style="color=blue">About Me ✨
-Hey there!🤗
+Hey there!
 
 I'm Prince,</span> a junior frontend developer based in Nepal.
 
