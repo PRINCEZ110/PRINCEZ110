@@ -3,9 +3,9 @@ Hey there!
 
 I'm Prince,</span> a junior frontend developer based in Nepal.
 
-I design and build anything I can imagine — if an idea comes to mind, I turn it into reality and ship it.
+I design and build a idea comes to mind, I turn it into reality and ship it.
 
-My main tech stack includes React, Java, and Tailwind. I enjoy creating clean, responsive, and user-friendly interfaces.
+My main tech stack includes React, Java, html, and css. I enjoy creating clean, responsive, and user-friendly interfaces.
 
 I’ve worked on several projects, with a number of public repositories showcasing my work.
 
